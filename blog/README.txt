@@ -1,3 +1,0 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/mithicher/pen/azQKNN.
-
- A card style blog post build with HTML5 , CSS3 and a little bit of jQuery....
